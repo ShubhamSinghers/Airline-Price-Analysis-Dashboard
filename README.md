@@ -35,7 +35,7 @@ The dashboard helps understand how **factors like city, airline, stops, and flig
 
 ## 📂 Project Files
 - [AIRLINES.pbix](AIRLINES.pbix) → Power BI file  
-- [Airline_Flight_Price_Analysis_Dashboard-1.png](https://github.com/ShubhamSinghers/Airline-Price-Analysis-Dashboard/blob/e5622168412553bf2003cf9439f7df67367a65e2/Airline%20Flight%20Price%20Analysis%20Dashboard-1.png) → Dashboard screenshot  
+- [Airline_Flight_Price_Analysis_Dashboard](https://github.com/ShubhamSinghers/Airline-Price-Analysis-Dashboard/blob/e5622168412553bf2003cf9439f7df67367a65e2/Airline%20Flight%20Price%20Analysis%20Dashboard-1.png) → Dashboard screenshot  
 - [README.md](README.md) → Documentation  
 
 
